@@ -1,0 +1,6 @@
+Name:Goblin
+Health:10
+Attack:2
+Defense:2
+Gold:10
+Exp:10

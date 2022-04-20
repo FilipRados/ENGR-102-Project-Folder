@@ -1,0 +1,7 @@
+Name:nino soya
+Health:15
+Attack:5
+Defense:5
+Gold:0
+Exp:0
+Level:1
